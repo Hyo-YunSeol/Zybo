@@ -1,5 +1,4 @@
-'''c
-  #!/usr/bin/env python3
+#!/usr/bin/env python3
 """
 교통수단 분류기 (Airplanes, Cars, Ships) - 수정 버전
 Teachable Machine TFLite 모델 전처리 방식 적용
@@ -554,4 +553,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-'''
